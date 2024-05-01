@@ -1,0 +1,2 @@
+Homework 2 VBA
+In this homework I created a stock analysis review on price change, percent change, and total stock volume for each ticker per quarter. This analysis loops through the inculded worksheets to dislpay its leaderboard values.
